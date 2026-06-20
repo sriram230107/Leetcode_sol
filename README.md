@@ -20,3 +20,11 @@ Just getting started 🚀
 * Java
 
 More solutions coming soon.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sriram230107/Leetcode_sol/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
