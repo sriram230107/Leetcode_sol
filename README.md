@@ -36,4 +36,12 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
