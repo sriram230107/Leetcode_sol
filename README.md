@@ -46,6 +46,7 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -56,4 +57,8 @@ More solutions coming soon.
 | ------- |
 | [0012-integer-to-roman](https://github.com/sriram230107/Leetcode_sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sriram230107/Leetcode_sol/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
