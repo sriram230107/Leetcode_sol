@@ -52,6 +52,7 @@ More solutions coming soon.
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0162-find-peak-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,6 +68,7 @@ More solutions coming soon.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sriram230107/Leetcode_sol/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0162-find-peak-element) |
 ## Sorting
 |  |
 | ------- |
