@@ -51,6 +51,7 @@ More solutions coming soon.
 | [0035-search-insert-position](https://github.com/sriram230107/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,4 +71,8 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
