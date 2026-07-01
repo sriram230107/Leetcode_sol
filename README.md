@@ -31,6 +31,7 @@ More solutions coming soon.
 | [0012-integer-to-roman](https://github.com/sriram230107/Leetcode_sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sriram230107/Leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ More solutions coming soon.
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +81,12 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
