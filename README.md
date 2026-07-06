@@ -34,6 +34,7 @@ More solutions coming soon.
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,4 +118,8 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
