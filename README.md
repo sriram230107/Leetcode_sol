@@ -32,6 +32,7 @@ More solutions coming soon.
 | [0013-roman-to-integer](https://github.com/sriram230107/Leetcode_sol/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sriram230107/Leetcode_sol/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 ## String
 |  |
@@ -58,6 +59,7 @@ More solutions coming soon.
 | [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sriram230107/Leetcode_sol/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sriram230107/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +68,7 @@ More solutions coming soon.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
