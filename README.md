@@ -34,6 +34,7 @@ More solutions coming soon.
 | [0066-plus-one](https://github.com/sriram230107/Leetcode_sol/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
 ## String
 |  |
@@ -98,6 +99,7 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
@@ -124,4 +126,8 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
