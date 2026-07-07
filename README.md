@@ -50,6 +50,7 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/sriram230107/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
 ## Array
 |  |
 | ------- |
@@ -130,4 +131,12 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sriram230107/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/sriram230107/Leetcode_sol/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
