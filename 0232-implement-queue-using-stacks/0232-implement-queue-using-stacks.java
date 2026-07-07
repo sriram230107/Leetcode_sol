@@ -1,28 +1,39 @@
 class MyQueue {
-    Deque<Integer> ar;
 
+   Stack<Integer> ip;
+   Stack<Integer> op;
     public MyQueue() {
-         ar=new ArrayDeque<>();
+        ip=new Stack<>();
+        op=new Stack<>();
     }
     
     public void push(int x) {
-        ar.addFirst(x);
-        
+        ip.push(x);
     }
     
     public int pop() {
-        return ar.removeLast();
+        value();
+        return op.pop();
         
     }
     
     public int peek() {
-        return ar.peekLast();
+        value();
+        return op.peek();
         
     }
     
     public boolean empty() {
+        value();
+        return op.isEmpty();
 
-        return ar.isEmpty();
+    }
+    public void value(){
+        if(op.isEmpty())
+        {
+            while(!ip.isEmpty())
+              op.push(ip.pop());
+        }
     }
 }
 
