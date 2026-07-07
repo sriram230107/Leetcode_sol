@@ -43,6 +43,7 @@ More solutions coming soon.
 | [0020-valid-parentheses](https://github.com/sriram230107/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sriram230107/Leetcode_sol/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sriram230107/Leetcode_sol/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/sriram230107/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
@@ -68,6 +69,7 @@ More solutions coming soon.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sriram230107/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
