@@ -19,10 +19,8 @@ public class Solution {
             {
                 return false;
             }
-            if(hi.add(h));
-            else{
+            if(!hi.add(h))
                 return true;
-            }
             h=h.next;
             
         }
