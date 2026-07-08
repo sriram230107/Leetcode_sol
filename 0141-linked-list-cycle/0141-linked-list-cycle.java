@@ -19,11 +19,11 @@ public class Solution {
             {
                 return false;
             }
-            h=h.next;
             if(hi.add(h));
             else{
                 return true;
             }
+            h=h.next;
             
         }
     }
