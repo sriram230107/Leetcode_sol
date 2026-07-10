@@ -67,6 +67,7 @@ More solutions coming soon.
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/sriram230107/Leetcode_sol/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sriram230107/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ More solutions coming soon.
 | [0151-reverse-words-in-a-string](https://github.com/sriram230107/Leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sriram230107/Leetcode_sol/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/sriram230107/Leetcode_sol/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sriram230107/Leetcode_sol/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sriram230107/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
