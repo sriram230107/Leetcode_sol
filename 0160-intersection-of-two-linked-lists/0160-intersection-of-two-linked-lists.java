@@ -23,8 +23,8 @@ public class Solution {
         {
             l2=l2.next;
         }
-       // return l2!=null?l2:l2;
-       return l2;
+       return l2!=null?l2:l2;
+       //return l2;
         
     }
 }
