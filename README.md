@@ -36,6 +36,7 @@ More solutions coming soon.
 | [0204-count-primes](https://github.com/sriram230107/Leetcode_sol/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/sriram230107/Leetcode_sol/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/sriram230107/Leetcode_sol/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ More solutions coming soon.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sriram230107/Leetcode_sol/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/sriram230107/Leetcode_sol/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/sriram230107/Leetcode_sol/tree/master/0326-power-of-three) |
 ## Design
 |  |
 | ------- |
