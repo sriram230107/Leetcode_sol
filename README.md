@@ -156,4 +156,20 @@ More solutions coming soon.
 | [0061-rotate-list](https://github.com/sriram230107/Leetcode_sol/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/sriram230107/Leetcode_sol/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sriram230107/Leetcode_sol/tree/master/0160-intersection-of-two-linked-lists) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sriram230107/Leetcode_sol/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sriram230107/Leetcode_sol/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sriram230107/Leetcode_sol/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sriram230107/Leetcode_sol/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
