@@ -32,16 +32,16 @@ class Solution {
             List<Integer> l2 = new ArrayList<>();
             while(LEN--!=0)
             {
-                l2.add(tr.peek().val);
-                if(tr.peek().left!=null)
+                TreeNode tn=tr.poll();
+                l2.add(tn.val);
+                if(tn.left!=null)
                 {
-                    tr.add(tr.peek().left);
+                    tr.add(tn.left);
                 }
-                if(tr.peek().right!=null)
+                if(tn.right!=null)
                 {
-                    tr.add(tr.peek().right);
+                    tr.add(tn.right);
                 }
-                tr.remove();
             }
             l1.add(l2);
         }
